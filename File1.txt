@@ -9,4 +9,5 @@ new content
 new content 11 aug
 
 
-change 1 added from dev branch - Change from user2
+change 1 added from dev branch - Change from user 2 and Changes from bug 123 branch
+>>>>>>> bug123
